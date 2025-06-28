@@ -25,6 +25,7 @@ C_KEYWORDS = [
     'sizeof', 'static', 'struct', 'switch', 'typedef', 'union', 'unsigned', 'void', 'volatile', 'while'
 ]
 
+
 C_FUNCTIONS = [
     # stdio.h
     'printf', 'scanf', 'fprintf', 'fscanf', 'sprintf', 'sscanf',
