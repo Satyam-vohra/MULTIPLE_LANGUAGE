@@ -6,6 +6,7 @@ import os
 import re
 import subprocess
 
+
 TOKEN_TYPES = {
     'keyword': '#FF79C6',      # Pink
     'identifier': '#F8F8F2',   # Light text
@@ -15,6 +16,7 @@ TOKEN_TYPES = {
     'comment': '#6272A4',      # Grey-blue
     'bracket': '#8BE9FD',      # Cyan
 }
+
 
 # List of C keywords
 C_KEYWORDS = [
